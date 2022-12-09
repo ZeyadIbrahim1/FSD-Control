@@ -1,0 +1,10 @@
+<launch>
+
+  <node 
+    name="rrt_path_planner"
+    pkg="rrt_path_planner"
+    type="rrt.py"
+    output="screen"
+  />
+
+</launch>
